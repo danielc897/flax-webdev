@@ -1,0 +1,46 @@
+body {
+    background-color: thistle;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJvQ74E_th6AhvUFl0jWxgyeXFi9u4zhS5Tw&s");
+}
+
+h2 {
+    color: #FFFFFF;
+    text-align: center;
+}
+
+h1 {
+    font-size: 120px;
+    font-family:fantasy
+}
+
+img {
+    float:left
+}
+
+#pagetitle{
+    background-color: #55ff00;
+    color: #ff9900;
+    text-align: left;
+    padding: 200px;
+    border: dashed;
+    border-width: 100px;
+    margin: 100px;
+}
+
+.center{
+    display: block;
+    margin-left: 200px;
+    margin-right: auto;
+    width: 25%;
+}
+
+p {
+    color: #ff0000;
+    font-family:cursive;
+    background-color: #070057;
+}
+
+#ugly {
+    background-color:#55ff00;
+    color: #ff00ee;
+}
